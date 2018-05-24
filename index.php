@@ -19,9 +19,9 @@
     $stmt->bindParam(':user_id', $user_id);
 
     // Insert a row
-    $id = 2;
-    $user_id = 5;
-    $stmt->execute();
+    // $id = 2;
+    // $user_id = 5;
+    // $stmt->execute();
 
   
  ?>
